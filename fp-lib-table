@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LEDBeam)(type KiCad)(uri ${KIPRJMOD}/LEDBeam.pretty)(options "")(descr ""))
+)
